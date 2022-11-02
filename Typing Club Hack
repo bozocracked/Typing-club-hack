@@ -1,3 +1,5 @@
+//Does not work on levels 1-300
+
 const minDelay = 10;
 const maxDelay = 80;
 
