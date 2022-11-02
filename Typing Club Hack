@@ -1,5 +1,5 @@
-const minDelay = 60;
-const maxDelay = 60;
+const minDelay = 10;
+const maxDelay = 80;
 
 
 
@@ -92,3 +92,4 @@ async function autoPlay(finish) {
 // ############################################################################################################
 
 autoPlay(true);
+Promise {<pending>}
